@@ -8,7 +8,8 @@ I specialize in building reliable, maintainable, production-ready web applicatio
 
 * 🔨 Currently working on a large-scale **Laravel CRM** covering Customers, Estimates, Invoices, Payments, Automations, Projects, and a complete V3 UI.
 * 🧩 Strong experience with **Laravel, PHP, MySQL, Livewire, Vue.js, Next.js, JavaScript, jQuery, and REST APIs**.
-* 💳 Experienced in complex **billing, invoicing, payment, tax, discount, progress billing, and financial workflows**.
+* 💳 Experienced in complex **billing, invoicing, payment, tax, discount, progress billing, and financial workflows**, including **Stripe payment gateway** integration.
+* 🔌 Build and test **REST APIs and third-party integrations** with **Postman**, backed by well-designed **MySQL database schemas**.
 * ⚡ Focused on **clean architecture, performance, reusable components, secure permissions, and reliable business logic**.
 * 🧪 Strong focus on **QA, regression testing, Playwright, PHPUnit, and production-ready releases**.
 * 🔐 Experienced with **role-based permissions, authorization, validation, scheduled jobs, queues, and automation systems**.
@@ -24,6 +25,8 @@ I specialize in building reliable, maintainable, production-ready web applicatio
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Frontend
 
@@ -38,6 +41,7 @@ I specialize in building reliable, maintainable, production-ready web applicatio
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -46,8 +50,10 @@ I specialize in building reliable, maintainable, production-ready web applicatio
 ## 💼 Core Expertise
 
 * **Laravel Application Development**
-* **REST API Development**
-* **MySQL Database Design & Optimization**
+* **REST API Development & Testing (Postman)**
+* **Third-Party API Integrations**
+* **Stripe Payment Gateway Integration**
+* **Database Design, Schema Planning & Optimization (MySQL)**
 * **Business Logic & Financial Systems**
 * **Invoice & Billing Systems**
 * **Payment Workflows**
@@ -149,7 +155,7 @@ I care about:
 ## 🤝 Let's Connect
 
 * 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOUR-HANDLE)
-* 📧 **Email:** [parth.radadiya@justcodesolutions.com](mailto:parth.radadiya@justcodesolutions.com)
+* 📧 **Email:** [parth.radadiya@justcodesolutions.com](parth.radadiya@justcodesolutions.com)
 * 🌐 **Company:** [JustCode Solutions](https://justcodesolutions.com)
 
 ---
