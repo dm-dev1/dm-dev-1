@@ -71,11 +71,18 @@ I specialize in building reliable, maintainable, production-ready web applicatio
 
 | Project | Contributions |
 | --- | --- |
-| **CRM – Invoicing V3** | Built and maintained invoice list, create, edit, view, billing workflows, calculations, permissions, and V3 UI functionality. |
-| **CRM – Estimates V3** | Developed Estimate workflows, templates, PDF generation, pagination, filtering, permissions, pricing, tax, and calculation logic. |
+| **CRM – Invoicing & Billing** | Write Off as a new invoice mode with bad-debt report, refunds on revise/replace, voided-invoice lock, bulk invoice email with live per-invoice checklist, Payment History grouping. |
+| **CRM – Payments & Credit** | Payment re-allocation (V3 modal + searchable invoice picker), one refund engine for all paths, customer credit history and credit refunds, shared MoneyTolerance for money checks. |
+| **CRM – Progress Billing** | Fixed draw rounding, percentage drift, deposit coverage, retainage release, and contract overbilling. |
+| **CRM – Standard Queue Billing** | Standard billing queue: turning completed work into invoices in bulk, with correct amounts, taxes, and customer billing rules. |
+| **CRM – Statements V3** | Statement listing, KPI tiles, filters, bulk email, PDF fixes, and totals that reconcile with invoices. |
 | **CRM – Automations** | Built automation workflows for scheduled emails, statements, reminders, conditions, webhooks, queues, and scheduled execution. |
-| **CRM – Payments & Billing** | Worked on payment processing, refunds, reallocations, progress billing, deposits, retainage, taxes, and financial calculations. |
-| **CRM – V3 UI Migration** | Helped modernize existing CRM screens while maintaining compatibility with existing business functionality and workflows. |
+| **CRM – Roles & Permissions** | Restore permission for every module, closed role self-escalation paths, Root-only role protection, and hid actions users can't use. |
+| **CRM – Estimates V3** | New estimate UI, bulk delete with per-row eligibility, pagination, permissions, mobile layout, and pricing-load guard. |
+| **CRM – Add / Edit Estimate** | New estimate form with "Start from template", quick customer create, tax-after-discount calculations, and live service pricing. |
+| **CRM – Leads V3** | New Leads V3 UI: listing, filters, convert lead to customer, and permissions. |
+| **CRM – Admin Settings V3** | New Admin Settings UI: grouped settings sections, business hours, seasonal settings, and consistent save flows. |
+| **CRM – V3 UI Migration** | Bookmarks, Purchase Orders, Expenses, Teams, Transactions, Waiting List, Audit Trail, and Login pages; one shared v3Toast / v3Confirm helper. |
 
 ---
 
