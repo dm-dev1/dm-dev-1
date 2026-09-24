@@ -1,21 +1,32 @@
-# Hi, I'm Darshan 👋
+# Hi, I'm DM Dev1 👋
 
-**Senior Full-Stack Developer @ [JustCode Solutions](https://justcodesolutions.com)** — Laravel · Vue.js · Next.js · Livewire. I build and maintain business web apps, from database to UI.
+### Senior Full-Stack Developer @ JustCode Solutions
 
-- 🔨 Currently working on a large Laravel CRM: customers, estimates, invoicing, payments, automations and a V3 UI rebuild.
-- 🎯 Focus: clean, fast admin screens, reliable billing logic, and end-to-end tested releases (Playwright).
-- 🤝 Open to: <!-- e.g. freelance Laravel projects / remote full-time roles -->
-- 📫 Reach me: [darshan@justcodesolutions.com](mailto:darshan@justcodesolutions.com) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+**5+ years of professional experience building, maintaining, and scaling business applications with Laravel and modern JavaScript frameworks.**
 
-## Tech Stack
+I specialize in building reliable, maintainable, production-ready web applications — from **database architecture and backend business logic to responsive admin interfaces and end-to-end testing**.
 
-**Backend**
+* 🔨 Currently working on a large-scale **Laravel CRM** covering Customers, Estimates, Invoices, Payments, Automations, Projects, and a complete V3 UI.
+* 🧩 Strong experience with **Laravel, PHP, MySQL, Livewire, Vue.js, Next.js, JavaScript, jQuery, and REST APIs**.
+* 💳 Experienced in complex **billing, invoicing, payment, tax, discount, progress billing, and financial workflows**.
+* ⚡ Focused on **clean architecture, performance, reusable components, secure permissions, and reliable business logic**.
+* 🧪 Strong focus on **QA, regression testing, Playwright, PHPUnit, and production-ready releases**.
+* 🔐 Experienced with **role-based permissions, authorization, validation, scheduled jobs, queues, and automation systems**.
+* 🚀 Comfortable working across the complete application lifecycle — **database → backend → API → frontend → testing → deployment**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend**
+### Frontend
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -23,32 +34,121 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Testing & Tools**
+### Testing & Development
+
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Selected Work
+---
 
-| Project | What I did |
-|---|---|
-| **CRM – Invoicing V3** | Rebuilt invoice list/create/show screens, per-line taxable rules, nightly draft finalization |
-| **CRM – Automations** | Scheduled statements and reminders with timezone-safe runners |
-| **CRM – Estimates V3** | Templates, PDF builder, pagination and permission-based actions |
+## 💼 Core Expertise
 
-<!-- Replace with pinned public repos + a screenshot/GIF each if the CRM is private -->
+* **Laravel Application Development**
+* **REST API Development**
+* **MySQL Database Design & Optimization**
+* **Business Logic & Financial Systems**
+* **Invoice & Billing Systems**
+* **Payment Workflows**
+* **Tax & Discount Calculations**
+* **Role-Based Access Control**
+* **Queues & Scheduled Jobs**
+* **Automation & Notification Systems**
+* **Livewire Applications**
+* **Vue.js & Modern Frontend Development**
+* **Responsive Admin Dashboards**
+* **DataTables & Server-Side Processing**
+* **Validation & Error Handling**
+* **Performance Optimization**
+* **Regression & End-to-End Testing**
+* **Playwright & PHPUnit**
+* **Git/GitHub Development Workflows**
 
+---
+
+## 🚀 Selected Work
+
+| Project | Contributions |
+| --- | --- |
+| **CRM – Invoicing V3** | Built and maintained invoice list, create, edit, view, billing workflows, calculations, permissions, and V3 UI functionality. |
+| **CRM – Estimates V3** | Developed Estimate workflows, templates, PDF generation, pagination, filtering, permissions, pricing, tax, and calculation logic. |
+| **CRM – Automations** | Built automation workflows for scheduled emails, statements, reminders, conditions, webhooks, queues, and scheduled execution. |
+| **CRM – Payments & Billing** | Worked on payment processing, refunds, reallocations, progress billing, deposits, retainage, taxes, and financial calculations. |
+| **CRM – V3 UI Migration** | Helped modernize existing CRM screens while maintaining compatibility with existing business functionality and workflows. |
+
+---
+
+## 🧪 Engineering & QA
+
+I don't consider a feature complete just because the main happy path works.
+
+My development and QA approach includes:
+
+* Functional testing
+* Regression testing
+* Edge-case testing
+* API validation
+* Database verification
+* Permission testing
+* Responsive/mobile testing
+* Cross-page workflow testing
+* Old UI vs new UI comparison
+* Playwright end-to-end testing
+* PHPUnit testing
+* Loading/race-condition testing
+* Form validation
+* Calculation and financial accuracy testing
+
+I focus on finding issues **before they reach production**, especially in complex business and financial workflows.
+
+---
+
+## 🏗️ Development Philosophy
+
+> **Build it correctly, test it thoroughly, and keep it maintainable.**
+
+I care about:
+
+* Clean and readable code
+* Reusable components
+* Strong backend validation
+* Reliable database operations
+* Secure authorization
+* Accurate business logic
+* Performance
+* Maintainability
+* Automated testing
+* Production reliability
+
+---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dm-dev1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm-dev1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=dm-dev1&theme=github-dark-blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=dm-dev1&theme=github-dark-blue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dm-dev1&layout=compact&langs_count=8&theme=github_dark)
 
+---
+
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dm-dev1&theme=darkhub&no-frame=true&margin-w=8&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dm-dev1&theme=darkhub&no-frame=true&margin-w=8&row=1)
 
+---
+
+## 🤝 Let's Connect
+
+* 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YOUR-HANDLE)
+* 📧 **Email:** [darshan@justcodesolutions.com](mailto:darshan@justcodesolutions.com)
+* 🌐 **Company:** [JustCode Solutions](https://justcodesolutions.com)
+
+---
+
+### ⚡ About Me
+
+**5+ years of experience. Full-stack mindset. Laravel-focused. Business-logic driven. Production-focused.**
+
+I enjoy solving complex problems where **backend architecture, financial logic, UI/UX, performance, and testing** all need to work together.
