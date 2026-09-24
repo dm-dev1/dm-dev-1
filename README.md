@@ -1,10 +1,11 @@
-# Hi, I'm DM Dev1 👋
+# Hi, I'm Darshan 👋
 
 **Senior Full-Stack Developer @ [JustCode Solutions](https://justcodesolutions.com)** — Laravel · Vue.js · Next.js · Livewire. I build and maintain business web apps, from database to UI.
 
 - 🔨 Currently working on a large Laravel CRM: customers, estimates, invoicing, payments, automations and a V3 UI rebuild.
 - 🎯 Focus: clean, fast admin screens, reliable billing logic, and end-to-end tested releases (Playwright).
 - 🤝 Open to: <!-- e.g. freelance Laravel projects / remote full-time roles -->
+- 📫 Reach me: [darshan@justcodesolutions.com](mailto:darshan@justcodesolutions.com) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
 
 ## Tech Stack
 
@@ -38,6 +39,14 @@
 
 <!-- Replace with pinned public repos + a screenshot/GIF each if the CRM is private -->
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=github-dark-blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&theme=github_dark)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&margin-w=8&row=1)
