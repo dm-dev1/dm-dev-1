@@ -39,14 +39,16 @@
 
 <!-- Replace with pinned public repos + a screenshot/GIF each if the CRM is private -->
 
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=dm-dev1&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=github-dark-blue)
+![Streak](https://streak-stats.demolab.com?user=dm-dev1&theme=github-dark-blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dm-dev1&layout=compact&langs_count=8&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&margin-w=8&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=dm-dev1&theme=darkhub&no-frame=true&margin-w=8&row=1)
+
