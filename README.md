@@ -5,7 +5,6 @@
 - 🔨 Currently working on a large Laravel CRM: customers, estimates, invoicing, payments, automations and a V3 UI rebuild.
 - 🎯 Focus: clean, fast admin screens, reliable billing logic, and end-to-end tested releases (Playwright).
 - 🤝 Open to: <!-- e.g. freelance Laravel projects / remote full-time roles -->
-- 📫 Reach me: [darshan@justcodesolutions.com](mailto:darshan@justcodesolutions.com) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
 
 ## Tech Stack
 
